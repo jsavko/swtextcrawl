@@ -3,14 +3,14 @@
   "title": "Star Wars Text Crawl",
   "description": "A module for adding a star wars text crawl into scenes",
   "author": "jsavko",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "minimumCoreVersion": "0.7.9",
   "styles": ["swtextcrawl.css"],
   "packs": [
     {
       "name": "swtextcrawljournal",
       "label": "Star Wars Text Crawl",
-      "path": "star-wars-text-crawl.db",
+      "path": "./packs/star-wars-text-crawl.db",
       "entity": "JournalEntry",
     }
   ],
