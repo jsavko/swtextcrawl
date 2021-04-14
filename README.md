@@ -28,7 +28,8 @@ Allows adding HTML into journal entries to produce Star Wars Text Crawl
 
 
 
+https://user-images.githubusercontent.com/192591/114768859-45c43b80-9d1e-11eb-83b4-16253dd51dd8.mp4
 
-https://user-images.githubusercontent.com/192591/114768734-23322280-9d1e-11eb-823b-ea9334cc7674.mp4
+
 
 
