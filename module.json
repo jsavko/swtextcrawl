@@ -1,0 +1,11 @@
+{
+  "name": "swtextcrawl",
+  "title": "Star Wars Text Crawl",
+  "description": "A module for adding a star wars text crawl into scenes",
+  "author": "jsavko",
+  "version": "0.0.1",
+  "minimumCoreVersion": "0.7.9",
+  "styles": ["swtextcrawl.css"],
+  "manifest": "https://raw.githubusercontent.com/jsavko/swtextcrawl/module.json",
+  "download":"https://raw.githubusercontent.com/jsavko/swtextcrawl/swtextcrawl-0.0.1.zip"
+}
