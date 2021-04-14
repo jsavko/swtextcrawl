@@ -3,7 +3,7 @@
   "title": "Star Wars Text Crawl",
   "description": "A module for adding a star wars text crawl into scenes",
   "author": "jsavko",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion":"0.7.0",
   "packs": [
