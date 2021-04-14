@@ -5,7 +5,11 @@ Allows adding HTML into journal entries to produce Star Wars Text Crawl
 Install as module via url: https://raw.githubusercontent.com/jsavko/swtextcrawl/main/module.json
 
 # Usage
-Create new url. Modify the source HTML using the template below.
+Create new Journal and click source code icon. 
+
+![image](https://user-images.githubusercontent.com/192591/114789229-a14ef300-9d37-11eb-9362-1c878c5394fa.png)
+
+Modify the source HTML using the template below.
 
 ```html
 
@@ -32,6 +36,9 @@ Create new url. Modify the source HTML using the template below.
 
 ```
 
+![image](https://user-images.githubusercontent.com/192591/114789299-bdeb2b00-9d37-11eb-9082-f7ee65260ca9.png)
+
+Share to players
 
 ![Screenrecording(1)-1](https://user-images.githubusercontent.com/192591/114769133-a6537880-9d1e-11eb-9c73-921db5b209a3.gif)
 
