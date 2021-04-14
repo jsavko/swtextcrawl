@@ -6,14 +6,6 @@
   "version": "0.0.7",
   "minimumCoreVersion": "0.7.9",
   "styles": ["swtextcrawl.css"],
-  "packs": [
-    {
-      "name": "swtextcrawljournal",
-      "label": "Star Wars Text Crawl",
-      "path": "./packs/star-wars-text-crawl.db",
-      "entity": "JournalEntry",
-    }
-  ],
   "manifest": "https://raw.githubusercontent.com/jsavko/swtextcrawl/main/module.json",
   "download": "https://github.com/jsavko/swtextcrawl/archive/refs/heads/main.zip"
 }
