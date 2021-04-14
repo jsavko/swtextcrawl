@@ -1,5 +1,11 @@
-# swtextcrawl
+# Star Wars Text Crawl Module
 Allows adding HTML into journal entries to produce Star Wars Text Crawl
+
+# Install
+Install as module via url: https://raw.githubusercontent.com/jsavko/swtextcrawl/main/module.json
+
+# Usage
+Create new url. Modify the source HTML using the template below.
 
 ```html
 
