@@ -7,5 +7,5 @@
   "minimumCoreVersion": "0.7.9",
   "styles": ["swtextcrawl.css"],
   "manifest": "https://raw.githubusercontent.com/jsavko/swtextcrawl/main/module.json",
-  "download":"https://github.com/jsavko/swtextcrawl/raw/main/swtextcrawl-0.0.1.zip"
+  "download": "https://github.com/jsavko/swtextcrawl/archive/refs/heads/main.zip"
 }
