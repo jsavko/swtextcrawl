@@ -25,3 +25,11 @@ Allows adding HTML into journal entries to produce Star Wars Text Crawl
 
 
 ```
+
+
+![Screenrecording(1)-1](https://user-images.githubusercontent.com/192591/114769133-a6537880-9d1e-11eb-9c73-921db5b209a3.gif)
+
+
+
+
+
