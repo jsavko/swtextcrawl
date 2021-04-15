@@ -1,11 +1,20 @@
 {
-  "name": "swtextcrawl",
-  "title": "Star Wars Text Crawl",
-  "description": "A module for adding a star wars text crawl into scenes",
+  "name": "swtextcrawl-dev",
+  "title": "Space Wars Text Crawl",
+  "description": "A module for adding a text crawl into journal entries",
   "author": "jsavko",
-  "version": "0.0.7",
+  "version": "0.0.10",
   "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion":"0.7.0",
   "styles": ["swtextcrawl.css"],
-  "manifest": "https://raw.githubusercontent.com/jsavko/swtextcrawl/main/module.json",
+  "packs": [
+      {
+        "name": "swtextcrawljournal",
+        "label": "Space Wars Text Crawl",
+        "path": "./packs/sw-text-crawl.db",
+        "entity": "JournalEntry"
+      }
+    ],
+  "manifest": "https://raw.githubusercontent.com/jsavko/swtextcrawl/main/module-dev.json",
   "download": "https://github.com/jsavko/swtextcrawl/archive/refs/heads/main.zip"
 }
