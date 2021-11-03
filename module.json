@@ -3,10 +3,11 @@
   "title": "Space Wars Text Crawl",
   "description": "A module for adding a text crawl into journal entries",
   "author": "jsavko",
-  "version": "0.0.13",
+  "version": "0.0.14",
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "0.8.9",
-  "styles": ["swtextcrawl.css"],
+  "styles": ["swtextcrawl.css", "starwarsintro.css"],
+  "esmodules": ["swtextcrawl.js"],
   "packs": [
       {
         "name": "swtextcrawljournal",
