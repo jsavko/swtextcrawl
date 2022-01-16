@@ -5,7 +5,7 @@
   "author": "jsavko",
   "version": "0.0.14",
   "minimumCoreVersion": "0.8.0",
-  "compatibleCoreVersion": "0.8.9",
+  "compatibleCoreVersion": "9",
   "styles": ["swtextcrawl.css", "starwarsintro.css"],
   "esmodules": ["swtextcrawl.js"],
   "packs": [
